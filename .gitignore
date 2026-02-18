@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Outputs
+output/
+*.srt
+*.vtt
+*.txt
+
+# Logs
+*.log
+
+desktop.ini
