@@ -32,7 +32,7 @@ python local_transcribe.py --model small --lang en --outdir output
 In `local_transcribe.py`, set the default media path:
 
 ```python
-default_media = r"C:\Users\Bndoni\Videos\sample-video.mp4"
+default_media = r"C:\path\to\your\video"
 ```
 
 ## Outputs
