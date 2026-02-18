@@ -18,7 +18,7 @@ pip install faster-whisper srt
 Run with a media file path:
 
 ```bash
-python local_transcribe.py "C:\Users\Bndoni\Videos\sample-video.mp4" --model small --lang en --outdir output
+python local_transcribe.py "C:\path\to\your\video" --model small --lang en --outdir output
 ```
 
 Or set a default path in the script and run without an argument:
